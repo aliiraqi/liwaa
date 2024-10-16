@@ -15,7 +15,7 @@ bot.onText(/\/start/, (msg) => {
         [
           {
             text: "تشغيل التطبيق",  // النص الذي يظهر على الزر
-            web_app: { url: "https://ttttoj-ygpq-aliiraqis-projects.vercel.app/" }  // رابط ثابت من Vercel
+            web_app: { url: "https://liwaay.vercel.app/" }  // رابط ثابت من Vercel
           }
         ]
       ]
